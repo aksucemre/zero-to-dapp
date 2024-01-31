@@ -5,7 +5,7 @@
       "main": "backend/Backend.mo"
     },
     "frontend": {
-      "dependencies": ["backend"],
+      "dependencies": ["end"],
       "type": "assets",
       "source": ["dist/"]
     }
