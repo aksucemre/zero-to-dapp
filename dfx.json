@@ -7,7 +7,7 @@
     "frontend": {
       "dependencies": ["end"],
       "type": "assets",
-      "source": ["dist/"]
+      "source": ["dist"]
     }
   },
   "defaults": {
