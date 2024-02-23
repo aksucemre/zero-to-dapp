@@ -6,6 +6,6 @@ service: () -> {
     getID: () -> [principal] query;
     getMessage: () -> (text) query;
     getUsersById: (principal) -> (record {id:principal; username:text; createdAt:nat64; Todos:vec principal}) query;
-    setMessage: (text) -> ();
+    setMessage: (text) --> ();
     viewUsers: () -> (vec record {id:principal; username:text; createdAt:nat64; Todos:vec principal}) query;
 }
