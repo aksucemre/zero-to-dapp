@@ -15,6 +15,6 @@
       "packtool": "npm run --silent sources"
     }
   },
-  "output_env_file": ".env",
+  "output_env_file": "env",
   "version": 2
 }
