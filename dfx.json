@@ -12,7 +12,7 @@
   },
   "defaults": {
     "build": {
-      "packtool": "npm run --silent sources"
+      "packtool": "npm run -silent sources"
     }
   },
   "output_env_file": "env",
