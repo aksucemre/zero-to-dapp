@@ -1,8 +1,6 @@
-# Vite + React + Motoko
+# Motoko
 
 ### Get started directly in your browser:
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/krpeacock/vite-react-motoko)
 
 This project template gives you everything you need to build a Web3 application on the [Internet Computer](https://internetcomputer.org/).
 
