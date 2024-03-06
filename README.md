@@ -1,4 +1,4 @@
-# Motoko
+# Motoko ICP
 
 ### Get started directly in your browser:
 
